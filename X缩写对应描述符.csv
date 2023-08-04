@@ -1,0 +1,31 @@
+,Elements,Zr,Nb,Sn,Fe,Cu,Ge
+X0,Atomic No.,40,41,50,26,29,32
+X1,VEC,4,5,4,8,11,4
+X2,Radius/?,1.603,1.429,1.62,1.241,1.278,1.24
+X3,Atomic Mass(g/mol),91.22,92.9064,118.71,55.84,63.55,72.63
+X4,Melting Point(K),2128,2750,505.078,1811,302,305
+X5,Boiling Point(K),4679,5014,2859.15,3134,284,277
+X6,Density(g/cm^3),6.49,8.4,7.287,7.8,8.9,5.3
+X7,Vanderwaals radius(nm),0.16,0.143,0.162,0.126,0.128,0.137
+X8,Pauling electronegativity2,1.33,1.6,1.96,1.83,1.9,2.01
+X9,¹²¼Û°ë¾¶£¨?£©,1.64,1.56,1.4,1.24,1.22,1.2
+X10,Atomic Radius£¨?£©,1.86,2.07,2.17,1.94,1.4,2.11
+X11,Electron Affinity(kJ/mol),40.896,85.728,107.298,15.648,117.888,129.6
+X12,Specific heat(J/kg/K),278.0092085,264.7826199,227,449.4985673,391.1880409,319.7301391
+X13,Young's modulus(GPa),88,105,49.9,221,110,103
+X14,Shear modulus(GPa),33,38,18.4,82,48,41
+X15,Bulk modulus(GPa),91.1,170,58.2,170,140,75
+X16,Ionization Energy(kJ/mol),636.864,648.864,708.581,758.592,741.696,758.4
+X17,Heat of fusion(kJ/mol),14,30,7.03,13.81,13.26,36.94
+X18,Coefficient of thermal conductivity(25¡æ)(W/m/K),22.6,53.7,66.8,80.4,401,60.2
+X19,Sanderson electronegative,0.9,1.42,1.49,2.2,1.98,2.62
+X20,Allred Rochow electronegative,1.22,1.23,1.72,1.64,1.75,2.02
+X21,Enthalpy of fusion£¨kJ/mol£©,21,26.8,7,13.8,13.1,31.8
+X22,Enthalpy of vaporisation£¨kJ/mol£©,580,690,290,347,300,334
+X23,Enthalpy of atomisation£¨kJ/mol£©,605,733,302,415,338,377
+X24,Atomic Volume (cm^3/mol),14.1,10.87,16.3,7.1,7.1,13.6
+X25,Cross Section(barn),0.184,1.15,0.626,2.56,3.78,2.2
+X26,Electrochemical Equivalent(g/amp-hr),0.8509,0.69327,1.1071,0.69455,1.1855,0.6771
+X27,Electron Work Function(eV),4.05,4.3,4.42,4.7,4.65,5
+X28,Heat of Vaporization(kJ/mol),58.2,682,295.8,349.6,300.3,330.9
+X29,Molar Volume (cm3/mol),14.06,10.84,16.31,7.11,7.11,13.57
